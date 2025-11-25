@@ -7,7 +7,7 @@
             "cppStandard": "c++20",
             "intelliSenseMode": "msvc-x64",
             "compileCommands": [
-                "C:\\Users\\user\\Documents\\Unreal Projects\\CryptRaider\\.vscode\\compileCommands_CryptRaider.json"
+                "C:\\Users\\user\\Documents\\Unreal Projects\\Crypt-Raider-UnrealEngine\\CryptRaider\\.vscode\\compileCommands_CryptRaider.json"
             ]
         },
         {
@@ -17,7 +17,7 @@
             "cppStandard": "c++20",
             "intelliSenseMode": "msvc-x64",
             "compileCommands": [
-                "C:\\Users\\user\\Documents\\Unreal Projects\\CryptRaider\\.vscode\\compileCommands_Default.json"
+                "C:\\Users\\user\\Documents\\Unreal Projects\\Crypt-Raider-UnrealEngine\\CryptRaider\\.vscode\\compileCommands_Default.json"
             ]
         }
     ],
